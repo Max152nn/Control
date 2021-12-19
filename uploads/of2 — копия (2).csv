@@ -1,0 +1,20 @@
+Relation Id;Relation Type;Context;Parent;Child;Min;Max;Default;Hide In Details Page
+6662000006;o2c;VF Red - S Subscription;Mobile Line;National Calling One Time;0;0;No;Yes
+6662000007;o2c;VF Red - S Subscription;Mobile Line;National Calling Recurring;0;0;No;Yes
+6662000008;o2c;VF Red - L Subscription;Mobile Line;National Calling One Time;0;0;No;Yes
+6662000009;o2c;VF Red - L Subscription;Mobile Line;National Calling Recurring;0;0;No;Yes
+6662000010;o2c;VF Black - Subscription;Mobile Line;National Data One Time;0;0;No;Yes
+6662000011;o2c;VF Black - Subscription;Mobile Line;National Data Recurring;0;0;No;Yes
+6662000012;o2c;VF Black - Subscription;Mobile Line;National Calling One Time;0;0;No;Yes
+6662000013;o2c;VF Black - Subscription;Mobile Line;National Calling Recurring;0;0;No;Yes
+6662000159;o2c;VF Red - S Subscription;Mobile Line;SIM Card;0;1;Yes;No
+6662000181;o2c;VF Red - S Subscription;Mobile Line;National SMS One Time;0;0;No;Yes
+6662000182;o2c;VF Red - L Subscription;Mobile Line;National SMS One Time;0;0;No;Yes
+6662000183;o2c;VF Black - Subscription;Mobile Line;National SMS One Time;0;0;No;Yes
+6662000184;o2c;VF Red - S Subscription;Mobile Line;National SMS Recurring;0;0;No;Yes
+6662000185;o2c;VF Red - L Subscription;Mobile Line;National SMS Recurring;0;0;No;Yes
+6662000186;o2c;VF Black - Subscription;Mobile Line;National SMS Recurring;0;0;No;Yes
+6662000242;o2c;VF Red - M Subscription;Mobile Line;National Calling One Time;0;0;No;Yes
+6662000243;o2c;VF Red - M Subscription;Mobile Line;National Calling Recurring;0;0;No;Yes
+6662000244;o2c;VF Red - M Subscription;Mobile Line;National SMS One Time;0;0;No;Yes
+6662000245;o2c;VF Red - M Subscription;Mobile Line;National SMS Recurring;0;0;No;Yes

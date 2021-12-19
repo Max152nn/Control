@@ -1,0 +1,11 @@
+Characteristic Override Id;Flat Offering;Characteristic Involvement;Visible;Mandatory; Modifiable;Default value
+vbvcb;VF Blue PAYG;AutoRenewal;No;No;No;
+2268742;VF Blue PAYG;Duration (Days);No;No;No;
+2268743;VF Blue PAYG;Included Data Allowance (GB);No;No;No;
+2268744;VF Blue PAYG;Included Voice Allowance (Mins);No;No;No;
+2268745;VF Blue PAYG;Included SMS Allowance;No;No;No;
+2268746;VF Blue PAYG;Auto Payment;No;No;No;
+2268747;VF Blue PAYG;Reorder Plan;No;No;No;
+2268748;VF Red - S Subscription;Data Rollover;Yes;No;No;
+2268749;VF Red - M Subscription;Data Rollover;Yes;No;No;
+2268750;VF Red - L Subscription;Data Rollover;Yes;No;No;

@@ -1,0 +1,34 @@
+Offering Id;Offering Template;Offering Name;Display Name;Description;Order Number;Weight;Available From;Available To;Eligibility Conditions
+6610000000;Mobile Prepaid Plan Template;VF Blue PAYG;;;10;10;01.01.2020;;All DC Consumer
+6610000001;Mobile Prepaid Plan Template;VF Red - S Subscription;;;20;20;01.01.2020;;All DC Consumer
+6610000002;Mobile Prepaid Plan Template;VF Red - L Subscription;;;30;40;01.01.2020;;All DC Consumer
+6610000003;Mobile Prepaid Plan Template;VF Black - Subscription;;;40;50;01.01.2020;;All DC Consumer
+6610000004;Mobile Prepaid Plan Template;VF Red - M Subscription;;;25;30;01.01.2020;;All DC Consumer
+6620000022;National Calling One Time Template;One Time National Voice 30;;;10;;01.01.2020;;All DC Consumer
+6620000023;National Calling One Time Template;One Time National Voice 60;;;20;;01.01.2020;;All DC Consumer
+6620000024;National Calling One Time Template;One Time National Voice 100;;;30;;01.01.2020;;All DC Consumer
+6620000025;National Calling Recurring Template;Recurring National Voice 30;;;10;;01.01.2020;;All DC Consumer
+6620000026;National Calling Recurring Template;Recurring National Voice 60;;;20;;01.01.2020;;All DC Consumer
+6620000027;National Calling Recurring Template;Recurring National Voice 100;;;30;;01.01.2020;;All DC Consumer
+6620000028;National Data One Time Template;One Time Data 500MB;;;10;;01.01.2020;;All DC Consumer
+6620000029;National Data One Time Template;One Time Data 1GB;;;20;;01.01.2020;;All DC Consumer
+6620000030;National Data One Time Template;One Time Data 5GB;;;30;;01.01.2020;;All DC Consumer
+6620000031;National Data One Time Template;One Time Data 10GB;;;40;;01.01.2020;;All DC Consumer
+6620000032;National Data Recurring Template;Recurring Data 500MB;;;10;;01.01.2020;;All DC Consumer
+6620000033;National Data Recurring Template;Recurring Data 1GB;;;20;;01.01.2020;;All DC Consumer
+6620000034;National Data Recurring Template;Recurring Data 5GB;;;30;;01.01.2020;;All DC Consumer
+6620000035;National Data Recurring Template;Recurring Data 10GB;;;40;;01.01.2020;;All DC Consumer
+6620000124;National SMS One Time Template;One Time SMS 500;;;420;;01.01.2020;;All DC Consumer
+6620000125;National SMS One Time Template;One Time SMS Unlimited;;;430;;01.01.2020;;All DC Consumer
+6620000126;National SMS Recurring Template;Recurring SMS 500;;;440;;01.01.2020;;All DC Consumer
+6620000127;National SMS Recurring Template;Recurring SMS Unlimited;;;450;;01.01.2020;;All DC Consumer
+6630000000;Mobile Line Template;Mobile Line;;;10;;01.01.2020;;All DC Consumer
+6630000001;SIM Card Template;SIM Card;;;10;;01.01.2020;;All DC Consumer
+6630000002;eSIM Template;eSIM;;;10;;01.01.2020;;All DC Consumer
+6630000005;Phone Number Template;Phone Number;;;10;;01.01.2020;;All DC Consumer
+6630000006;Premium Phone Number Template;Premium Phone Number;;;20;;01.01.2020;;All DC Consumer
+6630000008;Port-In Phone Number Template;Port-in Consumer Prepaid Phone Number;;;21;;01.01.2020;;All DC Consumer
+6630000009;Port-In Phone Number Template;Port-in Business Prepaid Phone Number;;;26;;01.01.2020;;All DC Consumer
+6630000010;Port-In Phone Number Template;Port-in Consumer Postpaid Phone Number;;;30;;01.01.2020;;All DC Consumer
+6630000011;Port-In Phone Number Template;Port-in Business Postpaid Phone Number;;;40;;01.01.2020;;All DC Consumer
+6630011;Port-In Phone Number Template11;Port-in Business Postpaid Phone Number;;;40;;01.01.2020;;All DC Consumer11
